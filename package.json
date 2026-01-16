@@ -1,6 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
+  "type": "module",
   "description": "brain games project",
   "homepage": "https://github.com/zabelinpavel/frontend-project-80#readme",
   "bugs": {
@@ -12,8 +13,10 @@
   },
   "license": "ISC",
   "author": "Zabelin Pavel",
-  "type": "commonjs",
   "main": "index.js",
+  "bin": {
+  "brain-games": "bin/brain-games.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
