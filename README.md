@@ -1,25 +1,10 @@
 # Brain Games
 
 [![CI](https://github.com/zabelinpavel/frontend-project-80/actions/workflows/ci.yml/badge.svg)](https://github.com/zabelinpavel/frontend-project-80/actions/workflows/ci.yml)
+
+## Hexlet tests and linter status:
+
 [![Actions Status](https://github.com/zabelinpavel/frontend-project-80/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/zabelinpavel/frontend-project-80/actions)
-
-## Description
-
-Brain Games is a set of console games launched as separate programs (`brain-even`, `brain-calc`, etc).  
-To win, you must answer three questions correctly in a row.
-
-## Requirements
-
-- Node.js >= 18
-- npm
-
-## Installation
-
-```bash
-git clone https://github.com/zabelinpavel/frontend-project-80.git
-cd frontend-project-80
-make install
-```
 
 ## Demo
 
