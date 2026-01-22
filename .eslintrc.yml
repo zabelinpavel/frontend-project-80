@@ -9,3 +9,4 @@ rules:
   implicit-arrow-linebreak: off
   no-console: off
   import/extensions: off
+  semi: [error, never]
